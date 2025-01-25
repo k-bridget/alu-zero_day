@@ -1,1 +1,1 @@
-This is my first readme.
+This session is interesting.
