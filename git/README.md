@@ -1,1 +1,1 @@
-fruits
+This session is interesting
